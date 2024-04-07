@@ -1,10 +1,8 @@
 # StudyNotion
-## Live 
-https://study-notion-frontend-wheat.vercel.app/ \
 otp mail will be in your spam section
 ## Installation
 
-1. Clone the repository: `https://github.com/Horror26/StudyNotion.git`
+1. Clone the repository: `https://github.com/Narendra-Rajput003/StudyNotion-Edtech`
 2. Navigate to the project directory: `cd `
 3. Install dependencies: `npm install`
 
@@ -14,7 +12,7 @@ otp mail will be in your spam section
      ```sh
     npm run start
     ```
-2. Replace an `example.env` files with your enviroment virables
+2. Replace an `example.env` file with your environment variables
 3. Start the development server.
     ```sh
     npm run dev
@@ -25,11 +23,11 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 
 ## System Architecture
 
-The Study Notion EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
+The Study Notion EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back end and database serving as the server.
 
 ### Front-end
 
-The front-end of the platform is built using ReactJS, which allows for the creation of dynamic and responsive user interfaces, crucial for providing an engaging learning experience to students. The front-end communicates with the back-end using RESTful API calls.
+The front-end of the platform is built using ReactJS, which allows for the creation of dynamic and responsive user interfaces, crucial for providing an engaging learning experience to students. The front-end communicates with the back end using RESTful API calls.
 
 #### Front End Pages
 
